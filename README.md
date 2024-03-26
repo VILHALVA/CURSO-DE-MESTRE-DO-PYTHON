@@ -71,4 +71,5 @@ Seguindo esses passos e mantendo uma mentalidade de aprendizado contínuo, você
 - [CURSO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://docs.python.org/3/)
 - [FAÇA O CURSO DE PYTHON](https://github.com/VILHALVA/CURSO-DE-PYTHON)
+- [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:PYTHON)
 
