@@ -1,4 +1,4 @@
-# MESTRE DO PYTHON
+# CURSO DE MESTRE DO PYTHON
 👨‍⚖️PYTHON É UMA LINGUAGEM DE PROGRAMAÇÃO.
 
 <img src="FOTO.png" align="center" width="400"> <br>
